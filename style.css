@@ -31,7 +31,7 @@ body {
 .header,
 .grid-layout__content--1,
 .section-footer {
-  background-image: url("/images/inflicted.png");
+  background-image: url("/images/black.png");
 }
 
 .header {
@@ -153,7 +153,7 @@ body {
 }
 
 .grid-layout__ingredients:not(:first-child, :nth-child(3)) {
-  background-image: url("/images/tiny-grid.png");
+  background-image: url("/images/white.png");
 }
 
 .grid-layout__content--1 {

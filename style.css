@@ -36,7 +36,6 @@ body {
 
 .header {
   background-position: top;
-  background-color: brown;
   height: 49vh;
   color: var(--color-white);
 

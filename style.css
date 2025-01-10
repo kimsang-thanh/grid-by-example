@@ -86,6 +86,10 @@ body {
   color: var(--color-black);
 }
 
+.header-nav__item a:hover {
+  background-color: #ddd;
+}
+
 /* position follow button */
 .follow a:link,
 .follow a:visited {
